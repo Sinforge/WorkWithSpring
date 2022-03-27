@@ -16,7 +16,7 @@ public class CompanyServiceimp implements CompanyService {
 
     @Override
     public ITCompany getCompany() {
-        return null;
+        return company;
     }
 
     @Override
